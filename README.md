@@ -1,2 +1,3 @@
 # Crop-Disease-Detection
-Crop Disease Detection
+The main file is present in master folder
+
