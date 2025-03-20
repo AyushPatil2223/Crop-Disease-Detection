@@ -1,3 +1,2 @@
 # Crop-Disease-Detection
-The main file is present in master folder
-
+The model file is present in master branch
